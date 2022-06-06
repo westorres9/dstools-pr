@@ -38,7 +38,7 @@
     
 }
 
-.home-image-container svg {
+.home-image-container img {
     width: 95%;
     height: auto;
     border-radius: 10px;
@@ -65,7 +65,7 @@
         width: 430px;
     }
 
-    .home-image-container svg {
+    .home-image-container img {
         width: 450px;
     }
     
@@ -147,7 +147,7 @@
         padding: 20px;
     }
 
-    .home-image-container svg {
+    .home-image-container img {
         width: 100%;
     }
 }
@@ -165,7 +165,7 @@
     .home-content-container p {
         font-size: 30px;
     }
-    .home-image-container svg {
+    .home-image-container img {
         width: 600px;
     }
 }

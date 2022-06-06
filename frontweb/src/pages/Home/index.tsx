@@ -1,4 +1,4 @@
-import {ReactComponent as HomeImg} from 'assets/images/home-image.svg';
+import HomeImg from 'assets/images/home-image.jpg';
 import ButtonIcon from 'components/ButtonIcon';
 import { Link } from 'react-router-dom';
 import './styles.css';
@@ -20,7 +20,7 @@ function Home() {
                     </a>
                 </div>
                 <div className="home-image-container">
-                    <HomeImg/>
+                    <img src={HomeImg} alt="home-img" />
                 </div>
             </div>
         </div>
