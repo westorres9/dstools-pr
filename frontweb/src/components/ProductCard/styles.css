@@ -20,7 +20,7 @@
 
 .card-bottom-container h6 {
     font-weight: bold;
-    font-size: 16px;
+    font-size: 14px;
     color: #263238;
 }
 
@@ -35,14 +35,14 @@ margin-right: 5px;
 }
 
 .product-price-container .fullprice {
-font-size:18px;
+font-size:16px;
 color: #fd7e14;
 margin-right: 10px; 
 text-decoration:line-through; 
 }
 
 .product-price-container .promo {
-font-size: 18px;
+font-size: 16px;
 color: #0f6c46;
 margin-right: 3px; 
 }
@@ -58,7 +58,7 @@ margin-right: 3px;
 }
 
 .finance-price h3{
-    font-size: 18px;
+    font-size: 16px;
     color: #0f6c46;
     margin-right: 3px; 
 }

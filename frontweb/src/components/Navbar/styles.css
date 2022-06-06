@@ -20,7 +20,7 @@
 
 .main-menu{
     display: flex;
-    font-size: 18px;
+    font-size: 14px;
     width: 380px;
     justify-content: space-between;
 }
