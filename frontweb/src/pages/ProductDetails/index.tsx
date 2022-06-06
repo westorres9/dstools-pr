@@ -1,4 +1,4 @@
-import { ReactComponent as ArrowIcon } from 'assets/images/arrow.svg';
+import { ReactComponent as ArrowIcon } from 'assets/images/Arrow.svg';
 import { Link, useParams } from 'react-router-dom';
 import { Product } from 'types/product';
 import { BASE_URL } from 'util/requests';
