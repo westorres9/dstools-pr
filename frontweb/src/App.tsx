@@ -1,4 +1,4 @@
-import './assets/styles/custom.scss';
+import './custom.scss';
 import './App.css';
 import Routes from 'Routes';
 import { useState } from 'react';

@@ -31,7 +31,7 @@
   }
 
   .auth-banner-container h1 {
-    font-size: 25px;
+    font-size: 20px;
     letter-spacing: -0.015em;
     color: #263238;
     margin-bottom: 15px;
@@ -46,7 +46,7 @@
   }
 
   .auth-banner-container svg {
-    width: 60%;
+    width: 40%;
   }
 }
 @media (min-width: 1400px) {
@@ -55,10 +55,10 @@
   }
 
   .auth-banner-container h1 {
-    font-size: 55px;
+    font-size: 40px;
     margin-bottom: 25px;
   }
   .auth-banner-container p {
-    font-size: 24px;
+    font-size: 16px;
   }
 }
